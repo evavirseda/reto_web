@@ -1,0 +1,26 @@
+.phone-card {
+    margin-bottom: 40px;
+}
+
+.phone-card img {
+    height: 250px;
+    object-fit: contain;
+}
+.phone-header{
+    letter-spacing: .2em;
+    font-size: 2em;
+}
+.phone-header p{
+    font-size: 1.3em;
+
+}
+.phone-catalog{
+    text-align: center;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+.btn{
+color:rgb(172, 196, 240);
+
+}

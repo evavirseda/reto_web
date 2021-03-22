@@ -1,0 +1,11 @@
+.navbarlink{
+    color: rgb(172, 196, 240);
+    text-decoration:none; 
+    text-transform:uppercase;
+    letter-spacing:.2em;
+    font-weight: bold;
+}
+.navbar{
+    margin-bottom: 30px;
+    padding: 30px;
+}
